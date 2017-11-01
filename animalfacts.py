@@ -1992,6 +1992,7 @@ SCORPION_FACTS = (
     'Areas of China have a traditional dish of fried scorpion, and scorpion wine features in Chinese medicine.',
     'The scorpion is one of the 12 signs of the Zodiac, with the Scorpio constellation identified in the stars.',
     'Scorpions moult, they shed their exoskeleton up to 7 times as they grow to full size. They become vulnerable to predators each time until their new protective exoskeleton hardens.',
+    'One of the largest scorpion species on Earth is the Emeperor Scorpion, which can live for 6-8 years, and can grow to 8 inches.',
     )
 
 SEAGULL_FACTS = (
