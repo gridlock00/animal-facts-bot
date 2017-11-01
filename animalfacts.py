@@ -580,7 +580,7 @@ BOBCAT_FACTS = (
     'Bobcats lay claim to an area of land that can be anywhere from 1 to 18 square miles in size.',
     'Bobcats can’t always consume their victims in one sitting. Sometimes, they use dirt, snow, leaves, or grass to bury the uneaten pieces of especially large corpses, and will return periodically to dig up their leftovers.',
     'The scientfic name for the bobcat is "Lynx rufus".',
-    'Wild bobcats have an average life span of 10 to 12 years'
+    'Wild bobcats have an average life span of 10 to 12 years.',
 )
 
 BUFFALO_FACTS = (
@@ -891,6 +891,7 @@ EAGLE_FACTS = (
     'Bald eagles live for around 20 years in the wild.',
     'Bald eagles build very large nests, sometimes weighing as much as a ton!',
     'The bald eagle was added to the list of endangered species in the United States in 1967 and its numbers have recovered well since.',
+    'One of the strongest and most powerful eagles in the world are Harpy eagles. They have extremly large talons, and use them to kill, lift and hook onto prey that can weight to almost 8 kilograms.',
     )
 
 ECHIDNA_FACTS = (
