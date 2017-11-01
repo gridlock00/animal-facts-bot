@@ -864,6 +864,7 @@ DRAGON_FACTS = (
     'Due to its importance as a traditional mythological creature, the Han Chinese commonly referred to themselves as the Descendents of the Dragon. ("long de chuan ren").',
     'Of the twelve animals representing the Chinese zodiac, the Dragon is the most popular year for childbirth; more children are born during the years of the Dragon than any other year.',
     'In ancient Chinese folklore, a school of golden koi fish spent a hundred years trying to swim upstream to the top of a waterfall. One koi finally reached the top, and the gods recognized it for its perseverence and determination by turning it into a golden dragon, the image of power and strength.',
+    'One of the main differences between Chinese and western dragons is that Chinese dragons cannot breathe fire, rather cause changes in the weather; typically creating rain.',
     )
 
 DUGONG_FACTS = (
