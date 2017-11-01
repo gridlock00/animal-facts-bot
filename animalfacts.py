@@ -1428,6 +1428,7 @@ LIZARD_FACTS = (
     'The Komodo dragon is the largest type of lizard, growing up to 3 meters (10 feet) in length.',
     'Komodo dragons are found on a number of different Indonesian Islands.',
     'Komodo dragons are carnivores and can be very aggressive.',
+    'They are also known to have a poisonous bite; consisting of venom from two glands found at the lower jaw, as well as infectious bateria from the saliva.',
     )
 
 LOBSTER_FACTS = (
